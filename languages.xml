@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- line no. matters -->
+<!-- change to special symbols of &amp; &lt; &gt; &quot; &apos; -->
+<cosmocat>
+	<language id="en-US">
+		<five>Determine friendliness of the User Input without any background Security and Safety Processes.</five>
+		<six>Command, Shell Command</six>
+		<seven>elithecomputerguy</seven>
+		<eight>Command</eight>
+		<ten>Elithecomputerguy presents the Executable Command in the Server Command Shell.</ten>
+		<twentyseven>Command</twentyseven>
+		<hundredthirty>English</hundredthirty>
+		<hundredthirtyone>Chinese</hundredthirtyone>
+		<hundredthirtytwo>Korean</hundredthirtytwo>
+		<hundredthirtythree>Hindi</hundredthirtythree>
+		<hundredthirtyfour>Japanese</hundredthirtyfour>
+		<hundredthirtyfive>Turkish</hundredthirtyfive>
+		<hundredthirtysix>Italian</hundredthirtysix>
+		<hundredthirtyeight>Command</hundredthirtyeight>
+		<hundredfourtyone>Step By Step with the Area of Concentration</hundredfourtyone>
+		<hundredfourtyfour>BEGIN</hundredfourtyfour>
+		<hundredfifty>OSINT (Toggle View)</hundredfifty>
+		<hundredfiftysix>User login name in the System:</hundredfiftysix>
+		<hundredfiftyeight>More info about the User:</hundredfiftyeight>
+		<hundredsixty>System main environment details:</hundredsixty>
+		<hundredsixtytwo>All created Users in the System:</hundredsixtytwo>
+		<hundredsixtyfour>All created Groups and Users in them:</hundredsixtyfour>
+		<hundredsixtysix>Available application instruments in the System:</hundredsixtysix>
+		<hundredsixtyeight>More info about one of those application instruments:</hundredsixtyeight>
+		<hundredseventy>More info about version of the instrument:</hundredseventy>
+		<hundredseventytwo>Assess capabilities of the System:</hundredseventytwo>
+		<hundredseventyfour>More info about the processes in the System:</hundredseventyfour>
+		<hundredseventysix>More info about the Files and Directories:</hundredseventysix>
+		<hundredseventyeight>More about the Networks of the System (Internal, Wire, Wi-Fi):</hundredseventyeight>
+		<hundredeighty>Browse the File in the Document Root:</hundredeighty>
+		<hundredeightysix>Active INT (Toggle View)</hundredeightysix>
+		<hundredninetytwo>Access Internal Network:</hundredninetytwo>
+		<hundredninetyfour>Create Directory:</hundredninetyfour>
+		<hundredninetysix>Download File from External Network:</hundredninetysix>
+		<hundredninetyeight>Create Some File in the System:</hundredninetyeight>
+		<twohundred>Insert Some Code to the File:</twohundred>
+		<twohundredtwo>Remove Some File in the System:</twohundredtwo>
+		<twohundredfour>Remove entire Directory of the System:</twohundredfour>
+		<twohundredsix>Change Permissions of the Files and Directories:</twohundredsix>
+		<twohundredeight>Look for Configuration of the System Server for plans i.e. to insert the Custom &quot;.htaccess&quot; Config File:</twohundredeight>
+		<twohundredfifteen>Multiple Actions as Active INT (Toggle View)</twohundredfifteen>
+		<twohundredtwentyone>Sensitive Data Disclosure A (1):</twohundredtwentyone>
+		<twohundredtwentythree>Sensitive Data Disclosure A (2):</twohundredtwentythree>
+		<twohundredtwentyfive>Sensitive Data Disclosure A (3):</twohundredtwentyfive>
+		<twohundredtwentyseven>Sensitive Data Disclosure B (1):</twohundredtwentyseven>
+		<twohundredtwentynine>Sensitive Data Disclosure B (2):</twohundredtwentynine>
+		<twohundredthirty>Sensitive Data Disclosure B (3): Browse the File in the Document Root https://127.0.0.1/command.center.php (Document Root req. &quot;AllowOverride All&quot;; req. Server Restart)</twohundredthirty>
+		<twohundredthirtysix>Conclusions (Toggle View)</twohundredthirtysix>
+		<twohundredfourtythree>OSINT could be described with these words: &quot;Reconnaissance&quot;, &quot;Intelligence Gathering&quot;, &quot;Information Gathering&quot;. And all of this could be managed by using simple command of shell_exec().</twohundredfourtythree>
+		<twohundredfourtyfour>Around the Interwebs You should be able to find a lot of various code You need, but &quot;Secure Programming&quot; and Paranoic &quot;Validation&quot;, and &quot;Sanitization&quot; usually are time consuming, not profitable to begin with, if everyone abide the rules and authorities anyway.</twohundredfourtyfour>
+		<twohundredfourtyfive>In PHP Configuration there are possible to specify disable_functions = &quot;exec, system&quot;. This would turn off these potentially dangerious functions. There could be used Approach by disabling everything and by step by step enabling only what You have.</twohundredfourtyfive>
+		<twohundredfourtyeight>Active Actions to the System through &quot;Untrusted Input&quot; could be misused with undesired outcomes. Server Configuration &quot;AllowOverride All&quot; are available in shared hosting.</twohundredfourtyeight>
+		<twohundredfourtynine>Instead of using Your own Server prefer Shared Hosting and Cloud Solutions, because they has to take care of Security as best as they can.</twohundredfourtynine>
+		<twohundredfifty>If such Platforms does not use Responsible disclosure policy for being able to report various Vulnerabilities and Flaws, does not provide at least short guideline and even if they have, but are too slow in their management, then the Service could be called as Poor Quality.</twohundredfifty>
+		<twohundredfiftythree>Compound of Actions (more than one) allows to create more sophisticated, complex Attacks.</twohundredfiftythree>
+		<twohundredfiftyfour>If the Country does not enforce minimal Requirements for the Software Applications, then there will be no Quality in Vulnerability Management and repeatition of bad code samples and patterns which would happen more often.</twohundredfiftyfour>
+		<twohundredfiftyfive>There could be created scanning instruments which would do analysis in I. Static Code, II. Testing Environment, but there are challenge when number of different Technologies in place and Software Application are used by different Privilege and Role Accounts with various labels on the information.</twohundredfiftyfive>
+		<twohundredsixtythree>END</twohundredsixtythree>
+		<twohundredsixtysevenitwelve>Submit Query</twohundredsixtysevenitwelve>
+		<twohundredsixtynine>Diagnostic Data:</twohundredsixtynine>
+	</language>
+	<language id="zh-CN">
+		<five>在没有任何后台安全和安全流程的情况下确定用户输入的友好性。</five>
+		<six>命令，命令</six>
+		<seven>计算机精英</seven>
+		<eight>命令</eight>
+		<ten>计算机精英 在服务器命令外壳中显示可执行命令。</ten>
+		<twentyseven>命令</twentyseven>
+		<hundredthirty>英语</hundredthirty>
+		<hundredthirtyone>中国人</hundredthirtyone>
+		<hundredthirtytwo>韩国人</hundredthirtytwo>
+		<hundredthirtythree>印地语</hundredthirtythree>
+		<hundredthirtyfour>日本人</hundredthirtyfour>
+		<hundredthirtyfive>土耳其</hundredthirtyfive>
+		<hundredthirtysix>意大利语</hundredthirtysix>
+		<hundredthirtyeight>命令</hundredthirtyeight>
+		<hundredfourtyone>循序渐进的专注领域</hundredfourtyone>
+		<hundredfourtyfour>开始</hundredfourtyfour>
+		<hundredfifty>OSINT（切换视图）</hundredfifty>
+		<hundredfiftysix>系统中的用户登录名：</hundredfiftysix>
+		<hundredfiftyeight>有关用户的更多信息：</hundredfiftyeight>
+		<hundredsixty>系统主要环境详情：</hundredsixty>
+		<hundredsixtytwo>系统中所有创建的用户：</hundredsixtytwo>
+		<hundredsixtyfour>其中所有创建的组和用户：</hundredsixtyfour>
+		<hundredsixtysix>系统中可用的应用工具：</hundredsixtysix>
+		<hundredsixtyeight>有关其中一种应用工具的更多信息：</hundredsixtyeight>
+		<hundredseventy>有关仪器版本的更多信息：</hundredseventy>
+		<hundredseventytwo>评估系统的能力：</hundredseventytwo>
+		<hundredseventyfour>有关系统中进程的更多信息：</hundredseventyfour>
+		<hundredseventysix>有关文件和目录的更多信息：</hundredseventysix>
+		<hundredseventyeight>有关系统网络（内部、有线、Wi-Fi）的更多信息：</hundredseventyeight>
+		<hundredeighty>浏览文档根目录中的文件：</hundredeighty>
+		<hundredeightysix>活动 INT（切换视图）</hundredeightysix>		
+		<hundredninetytwo>访问内部网络：</hundredninetytwo>
+		<hundredninetyfour>创建目录：</hundredninetyfour>
+		<hundredninetysix>从外部网络下载文件：</hundredninetysix>
+		<hundredninetyeight>在系统中创建一些文件：</hundredninetyeight>
+		<twohundred>在文件中插入一些代码：</twohundred>
+		<twohundredtwo>删除系统中的一些文件：</twohundredtwo>
+		<twohundredfour>删除系统的整个目录：</twohundredfour>
+		<twohundredsix>更改文件和目录的权限：</twohundredsix>
+		<twohundredeight>查找系统服务器的配置以获取计划，即插入自定义“.htaccess”配置文件：</twohundredeight>
+		<twohundredfifteen>作为活动 INT 的多个操作（切换视图）</twohundredfifteen>
+		<twohundredtwentyone>敏感数据披露 A (1)：</twohundredtwentyone>
+		<twohundredtwentythree>敏感数据披露 A (2)：</twohundredtwentythree>
+		<twohundredtwentyfive>敏感数据披露 A (3)：</twohundredtwentyfive>
+		<twohundredtwentyseven>敏感数据披露 B (1)：</twohundredtwentyseven>
+		<twohundredtwentynine>敏感数据披露 B (2)：</twohundredtwentynine>
+		<twohundredthirty>敏感数据泄露B（3）：浏览文档根目录下的文件 https://127.0.0.1/command.center.php（文档根目录 req. “AllowOverride All”；req. Server Restart）</twohundredthirty>
+		<twohundredthirtysix>结论（切换视图）</twohundredthirtysix>
+		<twohundredfourtythree>OSINT 可以用这些词来描述：“侦察”、“情报收集”、“信息收集”。所有这些都可以通过使用 shell_exec() 的简单命令来管理。</twohundredfourtythree>
+		<twohundredfourtyfour>在互联网周围你应该可以找到很多你需要的各种代码，但是“安全编程”； 如果每个人都遵守规则和权威，那么偏执的“验证”和“消毒”通常很耗时，而且一开始就无利可图。</twohundredfourtyfour>
+		<twohundredfourtyfive>在 PHP 配置中可以指定 disable_functions = &quot;exec, system&quot;。这将关闭这些潜在的危险功能。可以通过禁用所有内容并逐步启用仅您拥有的内容来使用方法。</twohundredfourtyfive>
+		<twohundredfourtyeight>通过“不受信任的输入”对系统执行的主动操作可能会被滥用并产生不希望的结果。服务器配置“AllowOverride All”在共享主机中可用。</twohundredfourtyeight>
+		<twohundredfourtynine>与其使用您自己的服务器，不如使用共享主机和云解决方案，因为他们必须尽可能地照顾安全性。</twohundredfourtynine>
+		<twohundredfifty>如果此类平台没有使用负责任的披露政策来报告各种漏洞和缺陷，没有提供至少简短的指导方针，即使他们有，但管理速度太慢，则该服务可能被称为质量差。</twohundredfifty>
+		<twohundredfiftythree>复合动作（不止一个）允许创建更复杂、更复杂的攻击。</twohundredfiftythree>
+		<twohundredfiftyfour>如果国家不对软件应用程序执行最低要求，那么漏洞管理质量将不复存在，并且会更频繁地重复出现错误代码示例和模式。</twohundredfiftyfour>
+		<twohundredfiftyfive>可以创建扫描仪器，在 I. Static Code, II. 中进行分析。测试环境，但是当不同的权限和角色帐户使用不同数量的不同技术和软件应用程序时，信息上有不同的标签时会遇到挑战。</twohundredfiftyfive>
+		<twohundredsixtythree>结尾</twohundredsixtythree>
+		<twohundredsixtysevenitwelve>提交查询</twohundredsixtysevenitwelve>
+		<twohundredsixtynine>诊断数据：</twohundredsixtynine>
+	</language>
+	<language id="ko-KR">
+		<five>배경 보안 및 안전 프로세스 없이 사용자 입력의 친화성을 결정합니다.</five>
+		<six>명령, 쉘 명령</six>
+		<seven>엘리트 컴퓨터가이</seven>
+		<eight>명령</eight>
+		<ten>엘리트 컴퓨터가이 는 서버 명령 셸에서 실행 가능한 명령을 제공합니다.</ten>
+		<twentyseven>명령</twentyseven>
+		<hundredthirty>영어</hundredthirty>
+		<hundredthirtyone>중국인</hundredthirtyone>
+		<hundredthirtytwo>한국인</hundredthirtytwo>
+		<hundredthirtythree>힌 디 어</hundredthirtythree>
+		<hundredthirtyfour>일본어</hundredthirtyfour>
+		<hundredthirtyfive>터키어</hundredthirtyfive>
+		<hundredthirtysix>이탈리아 사람</hundredthirtysix>
+		<hundredthirtyeight>명령</hundredthirtyeight>
+		<hundredfourtyone>집중 영역을 단계별로</hundredfourtyone>
+		<hundredfourtyfour>시작하다</hundredfourtyfour>
+		<hundredfifty>OSINT(보기 전환)</hundredfifty>
+		<hundredfiftysix>시스템의 사용자 로그인 이름:</hundredfiftysix>
+		<hundredfiftyeight>사용자에 대한 추가 정보:</hundredfiftyeight>
+		<hundredsixty>시스템 주요 환경 세부 정보:</hundredsixty>
+		<hundredsixtytwo>시스템에서 생성된 모든 사용자:</hundredsixtytwo>
+		<hundredsixtyfour>생성된 모든 그룹 및 사용자:</hundredsixtyfour>
+		<hundredsixtysix>시스템에서 사용 가능한 응용 프로그램:</hundredsixtysix>
+		<hundredsixtyeight>이러한 응용 도구 중 하나에 대한 추가 정보:</hundredsixtyeight>
+		<hundredseventy>기기 버전에 대한 추가 정보:</hundredseventy>
+		<hundredseventytwo>시스템 기능 평가:</hundredseventytwo>
+		<hundredseventyfour>시스템의 프로세스에 대한 추가 정보:</hundredseventyfour>
+		<hundredseventysix>파일 및 디렉토리에 대한 추가 정보:</hundredseventysix>
+		<hundredseventyeight>시스템 네트워크(내부, 유선, Wi-Fi)에 대한 추가 정보:</hundredseventyeight>
+		<hundredeighty>문서 루트에서 파일 찾아보기:</hundredeighty>
+		<hundredeightysix>활성 INT(보기 전환)</hundredeightysix>
+		<hundredninetytwo>내부 네트워크 액세스:</hundredninetytwo>
+		<hundredninetyfour>디렉토리 생성:</hundredninetyfour>
+		<hundredninetysix>외부 네트워크에서 파일 다운로드:</hundredninetysix>
+		<hundredninetyeight>시스템에서 일부 파일 생성:</hundredninetyeight>
+		<twohundred>파일에 일부 코드 삽입:</twohundred>
+		<twohundredtwo>시스템에서 일부 파일 제거:</twohundredtwo>
+		<twohundredfour>시스템의 전체 디렉토리 제거:</twohundredfour>
+		<twohundredsix>파일 및 디렉토리의 권한 변경:</twohundredsix>
+		<twohundredeight>사용자 정의 &quot;.htaccess&quot; 구성 파일을 삽입하기 위한 계획에 대한 시스템 서버 구성을 찾으십시오.</twohundredeight>
+		<twohundredfifteen>활성 INT로서의 다중 작업(보기 전환)</twohundredfifteen>
+		<twohundredtwentyone>민감한 데이터 공개 A(1):</twohundredtwentyone>
+		<twohundredtwentythree>민감한 데이터 공개 A(2):</twohundredtwentythree>
+		<twohundredtwentyfive>민감한 데이터 공개 A(3):</twohundredtwentyfive>
+		<twohundredtwentyseven>민감한 데이터 공개 B(1):</twohundredtwentyseven>
+		<twohundredtwentynine>민감한 데이터 공개 B(2):</twohundredtwentynine>
+		<twohundredthirty>민감한 데이터 공개 B(3): 문서 루트 https://127.0.0.1/command.center.php에서 파일 찾아보기(문서 루트 req. &quot;AllowOverride All&quot;, req. Server Restart)</twohundredthirty>
+		<twohundredthirtysix>결론(보기 전환)</twohundredthirtysix>
+		<twohundredfourtythree>OSINT는 &quot;정찰&quot;, &quot;정보 수집&quot;, &quot;정보 수집&quot;이라는 단어로 설명할 수 있습니다. 그리고 이 모든 것은 shell_exec()의 간단한 명령을 사용하여 관리할 수 있습니다.</twohundredfourtythree>
+		<twohundredfourtyfour>Interwebs 주위에서 당신이 필요로 하는 다양한 코드를 많이 찾을 수 있을 것입니다. 그러나 &quot;Secure Programming&quot;; 그리고 편집증적인 &quot;검증&quot; 및 &quot;위생&quot;은 일반적으로 시간이 많이 걸리고 모든 사람이 어쨌든 규칙과 당국을 준수한다면 처음부터 수익성이 없습니다.</twohundredfourtyfour>
+		<twohundredfourtyfive>PHP 구성에서 disable_functions = &quot;exec, system&quot;을 지정할 수 있습니다. 이렇게 하면 이러한 잠재적으로 위험한 기능이 꺼집니다. 모든 것을 비활성화하고 단계적으로 당신이 가진 것만 활성화함으로써 접근 방식을 사용할 수 있습니다.</twohundredfourtyfive>
+		<twohundredfourtyeight>&quot;신뢰할 수 없는 입력&quot;을 통한 시스템에 대한 능동적 작업은 바람직하지 않은 결과와 함께 오용될 수 있습니다. 서버 구성 &quot;AllowOverride All&quot;은 공유 호스팅에서 사용할 수 있습니다.</twohundredfourtyeight>
+		<twohundredfourtynine>자신의 서버를 사용하는 대신 공유 호스팅 및 클라우드 솔루션을 선호합니다. 가능한 한 보안을 관리해야 하기 때문입니다.</twohundredfourtynine>
+		<twohundredfifty>이러한 플랫폼이 다양한 취약성 및 결함을 보고할 수 있는 책임 있는 공개 정책을 사용하지 않고, 최소한 짧은 지침을 제공하지 않으며, 지침이 있더라도 관리가 너무 느리다면 서비스 품질이 불량하다고 부를 수 있습니다.</twohundredfifty>
+		<twohundredfiftythree>복합 동작(하나 이상)을 사용하면 보다 정교하고 복잡한 공격을 생성할 수 있습니다.</twohundredfiftythree>
+		<twohundredfiftyfour>국가가 소프트웨어 응용 프로그램에 대한 최소 요구 사항을 시행하지 않으면 취약성 관리에 품질이 없으며 더 자주 발생하는 불량 코드 샘플 및 패턴이 반복됩니다.</twohundredfiftyfour>
+		<twohundredfiftyfive>I. Static Code, II에서 분석을 수행할 스캐닝 도구가 생성될 수 있습니다. 테스트 환경이지만 정보에 다양한 레이블이 있는 다른 권한 및 역할 계정에서 여러 기술 및 소프트웨어 응용 프로그램을 사용할 때 문제가 있습니다.</twohundredfiftyfive>
+		<twohundredsixtythree>끝</twohundredsixtythree>
+		<twohundredsixtysevenitwelve>쿼리 제출</twohundredsixtysevenitwelve>
+		<twohundredsixtynine>진단 데이터:</twohundredsixtynine>
+	</language>
+	<language id="hi-IN">
+		<five>बिना किसी पृष्ठभूमि सुरक्षा और सुरक्षा प्रक्रियाओं के उपयोगकर्ता इनपुट की मित्रता का निर्धारण करें।</five>
+		<six>कमांड, शेल कमांड</six>
+		<seven>इलीथकंप्यूटर गाइ</seven>
+		<eight>आज्ञा</eight>
+		<ten>इलीथकंप्यूटर गाइ सर्वर कमांड शेल में निष्पादन योग्य कमांड प्रस्तुत करता है।</ten>
+		<twentyseven>आज्ञा</twentyseven>
+		<hundredthirty>अंग्रेज़ी</hundredthirty>
+		<hundredthirtyone>चीनी</hundredthirtyone>
+		<hundredthirtytwo>कोरियाई</hundredthirtytwo>
+		<hundredthirtythree>हिन्दी</hundredthirtythree>
+		<hundredthirtyfour>जापानी</hundredthirtyfour>
+		<hundredthirtyfive>तुर्की</hundredthirtyfive>
+		<hundredthirtysix>इतालवी</hundredthirtysix>
+		<hundredthirtyeight>आज्ञा</hundredthirtyeight>
+		<hundredfourtyone>एकाग्रता के क्षेत्र के साथ कदम दर कदम</hundredfourtyone>
+		<hundredfourtyfour>शुरू करना</hundredfourtyfour>
+		<hundredfifty>OSINT (टॉगल व्यू)</hundredfifty>
+		<hundredfiftysix>सिस्टम में उपयोगकर्ता लॉगिन नाम:</hundredfiftysix>
+		<hundredfiftyeight>उपयोगकर्ता के बारे में अधिक जानकारी:</hundredfiftyeight>
+		<hundredsixty>सिस्टम मुख्य पर्यावरण विवरण:</hundredsixty>
+		<hundredsixtytwo>सिस्टम में सभी बनाए गए उपयोगकर्ता:</hundredsixtytwo>
+		<hundredsixtyfour>सभी बनाए गए समूह और उनमें उपयोगकर्ता:</hundredsixtyfour>
+		<hundredsixtysix>सिस्टम में उपलब्ध एप्लिकेशन इंस्ट्रूमेंट्स:</hundredsixtysix>
+		<hundredsixtyeight>उन एप्लिकेशन उपकरणों में से एक के बारे में अधिक जानकारी:</hundredsixtyeight>
+		<hundredseventy>साधन के संस्करण के बारे में अधिक जानकारी:</hundredseventy>
+		<hundredseventytwo>सिस्टम की क्षमताओं का आकलन करें:</hundredseventytwo>
+		<hundredseventyfour>सिस्टम में प्रक्रियाओं के बारे में अधिक जानकारी:</hundredseventyfour>
+		<hundredseventysix>फ़ाइलों और निर्देशिकाओं के बारे में अधिक जानकारी:</hundredseventysix>
+		<hundredseventyeight>सिस्टम के नेटवर्क (आंतरिक, तार, वाई-फाई) के बारे में अधिक जानकारी:</hundredseventyeight>
+		<hundredeighty>दस्तावेज़ रूट में फ़ाइल ब्राउज़ करें:</hundredeighty>
+		<hundredeightysix>सक्रिय INT (देखें टॉगल करें)</hundredeightysix>
+		<hundredninetytwo>आंतरिक नेटवर्क तक पहुंचें:</hundredninetytwo>
+		<hundredninetyfour>निर्देशिका बनाओ:</hundredninetyfour>
+		<hundredninetysix>बाहरी नेटवर्क से फ़ाइल डाउनलोड करें:</hundredninetysix>
+		<hundredninetyeight>सिस्टम में कुछ फ़ाइल बनाएँ:</hundredninetyeight>
+		<twohundred>फ़ाइल में कुछ कोड डालें:</twohundred>
+		<twohundredtwo>सिस्टम में कुछ फ़ाइल निकालें:</twohundredtwo>
+		<twohundredfour>सिस्टम की संपूर्ण निर्देशिका निकालें:</twohundredfour>
+		<twohundredsix>फ़ाइलों और निर्देशिकाओं की अनुमतियाँ बदलें:</twohundredsix>
+		<twohundredeight>योजनाओं के लिए सिस्टम सर्वर के कॉन्फ़िगरेशन की तलाश करें यानी कस्टम &quot;.htaccess&quot; कॉन्फ़िग फ़ाइल सम्मिलित करने के लिए:</twohundredeight>
+		<twohundredfifteen>सक्रिय INT के रूप में एकाधिक क्रियाएँ (देखें टॉगल करें)</twohundredfifteen>
+		<twohundredtwentyone>संवेदनशील डेटा प्रकटीकरण ए (1):</twohundredtwentyone>
+		<twohundredtwentythree>संवेदनशील डेटा प्रकटीकरण ए (2):</twohundredtwentythree>
+		<twohundredtwentyfive>संवेदनशील डेटा प्रकटीकरण ए (3):</twohundredtwentyfive>
+		<twohundredtwentyseven>संवेदनशील डेटा प्रकटीकरण बी (1):</twohundredtwentyseven>
+		<twohundredtwentynine>संवेदनशील डेटा प्रकटीकरण बी (2):</twohundredtwentynine>
+		<twohundredthirty>संवेदनशील डेटा प्रकटीकरण बी (3): दस्तावेज़ रूट में फ़ाइल ब्राउज़ करें https://127.0.0.1/command.center.php (दस्तावेज़ रूट अनुरोध। &quot;AllowOverride All&quot;; अनुरोध सर्वर पुनरारंभ करें)</twohundredthirty>
+		<twohundredthirtysix>निष्कर्ष (देखें टॉगल करें)</twohundredthirtysix>
+		<twohundredfourtythree>OSINT को इन शब्दों के साथ वर्णित किया जा सकता है: &quot;टोही&quot;, &quot;इंटेलिजेंस गैदरिंग&quot;, &quot;सूचना एकत्र करना&quot;। और यह सब shell_exec() की सरल कमांड का उपयोग करके प्रबंधित किया जा सकता है।</twohundredfourtythree>
+		<twohundredfourtyfour>इंटरवेब के आस-पास आपको बहुत सारे विभिन्न कोड खोजने में सक्षम होना चाहिए जिनकी आपको आवश्यकता है, लेकिन &quot;सुरक्षित प्रोग्रामिंग&quot;; और पैरानोइक &quot;सत्यापन&quot;, और &quot;स्वच्छता&quot; आमतौर पर समय लेने वाली होती है, शुरू करने के लिए लाभदायक नहीं है, अगर हर कोई नियमों और प्राधिकरणों का पालन करता है।</twohundredfourtyfour>
+		<twohundredfourtyfive>PHP कॉन्फ़िगरेशन में disable_functions = &quot;exec, system&quot; निर्दिष्ट करना संभव है। यह इन संभावित खतरनाक कार्यों को बंद कर देगा। सब कुछ अक्षम करके और चरण दर चरण केवल आपके पास जो कुछ भी है उसे सक्षम करके दृष्टिकोण का उपयोग किया जा सकता है।</twohundredfourtyfive>
+		<twohundredfourtyeight>&quot;अविश्वसनीय इनपुट&quot; के माध्यम से सिस्टम में सक्रिय कार्रवाइयों का अवांछित परिणामों के साथ दुरुपयोग किया जा सकता है। सर्वर कॉन्फ़िगरेशन &quot;AllowOverride All&quot; साझा होस्टिंग में उपलब्ध हैं।</twohundredfourtyeight>
+		<twohundredfourtynine>अपने स्वयं के सर्वर का उपयोग करने के बजाय साझा होस्टिंग और क्लाउड सॉल्यूशंस को प्राथमिकता दें, क्योंकि उन्हें सुरक्षा का यथासंभव ध्यान रखना होगा।</twohundredfourtynine>
+		<twohundredfifty>यदि ऐसे प्लेटफॉर्म विभिन्न कमजोरियों और खामियों की रिपोर्ट करने में सक्षम होने के लिए जिम्मेदार प्रकटीकरण नीति का उपयोग नहीं करते हैं, कम से कम संक्षिप्त दिशानिर्देश प्रदान नहीं करते हैं और भले ही उनके पास हो, लेकिन उनके प्रबंधन में बहुत धीमा है, तो सेवा को खराब गुणवत्ता कहा जा सकता है।</twohundredfifty>
+		<twohundredfiftythree>क्रियाओं का कंपाउंड (एक से अधिक) अधिक परिष्कृत, जटिल हमले बनाने की अनुमति देता है।</twohundredfiftythree>
+		<twohundredfiftyfour>यदि देश सॉफ्टवेयर अनुप्रयोगों के लिए न्यूनतम आवश्यकताओं को लागू नहीं करता है, तो भेद्यता प्रबंधन में कोई गुणवत्ता नहीं होगी और खराब कोड नमूने और पैटर्न की पुनरावृत्ति अधिक बार होगी।</twohundredfiftyfour>
+		<twohundredfiftyfive>स्कैनिंग उपकरण बनाए जा सकते हैं जो I. स्टेटिक कोड, II में विश्लेषण करेंगे। परीक्षण पर्यावरण, लेकिन चुनौती होती है जब सूचना पर विभिन्न लेबल वाले विभिन्न विशेषाधिकार और भूमिका खातों द्वारा विभिन्न तकनीकों और सॉफ़्टवेयर एप्लिकेशन का उपयोग किया जाता है।</twohundredfiftyfive>
+		<twohundredsixtythree>समाप्त</twohundredsixtythree>
+		<twohundredsixtysevenitwelve>क्वेरी सबमिट करे</twohundredsixtysevenitwelve>
+		<twohundredsixtynine>नैदानिक ​​डेटा:</twohundredsixtynine>
+	</language>
+	<language id="ja-JA">
+		<five>バックグラウンドのセキュリティおよび安全プロセスなしで、ユーザー入力の親しみやすさを判断します。</five>
+		<six>コマンド、シェルコマンド</six>
+		<seven>elithecomputerguy</seven>
+		<eight>指示</eight>
+		<ten>Elithecomputerguyは、サーバーコマンドシェルに実行可能コマンドを表示します。</ten>
+		<twentyseven>指示</twentyseven>
+		<hundredthirty>英語</hundredthirty>
+		<hundredthirtyone>中国語</hundredthirtyone>
+		<hundredthirtytwo>韓国語</hundredthirtytwo>
+		<hundredthirtythree>ヒンディー語</hundredthirtythree>
+		<hundredthirtyfour>日本</hundredthirtyfour>
+		<hundredthirtyfive>トルコ語</hundredthirtyfive>
+		<hundredthirtysix>イタリアの</hundredthirtysix>
+		<hundredthirtyeight>指示</hundredthirtyeight>
+		<hundredfourtyone>集中の領域で段階的に</hundredfourtyone>
+		<hundredfourtyfour>始める</hundredfourtyfour>
+		<hundredfifty>OSINT（トグルビュー）</hundredfifty>
+		<hundredfiftysix>システムでのユーザーログイン名：</hundredfiftysix>
+		<hundredfiftyeight>ユーザーに関する詳細情報：</hundredfiftyeight>
+		<hundredsixty>システムの主な環境の詳細：</hundredsixty>
+		<hundredsixtytwo>システムで作成されたすべてのユーザー：</hundredsixtytwo>
+		<hundredsixtyfour>作成されたすべてのグループとその中のユーザー：</hundredsixtyfour>
+		<hundredsixtysix>システムで利用可能なアプリケーション機器：</hundredsixtysix>
+		<hundredsixtyeight>これらのアプリケーション機器の1つに関する詳細情報：</hundredsixtyeight>
+		<hundredseventy>機器のバージョンに関する詳細情報：</hundredseventy>
+		<hundredseventytwo>システムの機能を評価します。</hundredseventytwo>
+		<hundredseventyfour>システム内のプロセスに関する詳細情報：</hundredseventyfour>
+		<hundredseventysix>ファイルとディレクトリの詳細：</hundredseventysix>
+		<hundredseventyeight>システムのネットワーク（内部、有線、Wi-Fi）の詳細：</hundredseventyeight>
+		<hundredeighty>ドキュメントルートでファイルを参照します。</hundredeighty>
+		<hundredeightysix>アクティブINT（トグルビュー）</hundredeightysix>
+		<hundredninetytwo>内部ネットワークへのアクセス：</hundredninetytwo>
+		<hundredninetyfour>ディレクトリの作成：</hundredninetyfour>
+		<hundredninetysix>外部ネットワークからファイルをダウンロード：</hundredninetysix>
+		<hundredninetyeight>システムにファイルを作成します。</hundredninetyeight>
+		<twohundred>ファイルにコードを挿入します。</twohundred>
+		<twohundredtwo>システム内のいくつかのファイルを削除します。</twohundredtwo>
+		<twohundredfour>システムのディレクトリ全体を削除します。</twohundredfour>
+		<twohundredsix>ファイルとディレクトリのアクセス許可を変更します。</twohundredsix>
+		<twohundredeight>プランのシステムサーバーの構成を探します。つまり、カスタム「.htaccess」構成ファイルを挿入します。</twohundredeight>
+		<twohundredfifteen>アクティブINTとしての複数のアクション（トグルビュー）</twohundredfifteen>
+		<twohundredtwentyone>機密データ開示A（1）：</twohundredtwentyone>
+		<twohundredtwentythree>機密データ開示A（2）：</twohundredtwentythree>
+		<twohundredtwentyfive>機密データ開示A（3）：</twohundredtwentyfive>
+		<twohundredtwentyseven>機密データ開示B（1）：</twohundredtwentyseven>
+		<twohundredtwentynine>機密データ開示B（2）：</twohundredtwentynine>
+		<twohundredthirty>機密データの開示B（3）：ドキュメントルートhttps://127.0.0.1/command.center.php内のファイルを参照します（ドキュメントルートの要求 &quot;AllowOverride All&quot;;要求サーバーの再起動）</twohundredthirty>
+		<twohundredthirtysix>結論（トグルビュー）</twohundredthirtysix>
+		<twohundredfourtythree>OSINTは、「偵察」、「インテリジェンス収集」、「情報収集」という言葉で説明できます。そして、これらすべては、shell_exec（）の簡単なコマンドを使用して管理できます。</twohundredfourtythree>
+		<twohundredfourtyfour>インターウェブの周りあなたはあなたが必要とするたくさんの様々なコードを見つけることができるはずですが、「安全なプログラミング」。 そして、妄想的な「検証」と「サニタイズ」は、通常、時間がかかり、誰もがとにかく規則や権限を遵守している場合、そもそも利益がありません。</twohundredfourtyfour>
+		<twohundredfourtyfive>PHP構成では、disable_functions = &quot;exec、system&quot;を指定できます。これにより、これらの潜在的に危険な機能がオフになります。すべてを無効にし、段階的にあなたが持っているものだけを有効にすることによって、アプローチを使用することができます。</twohundredfourtyfive>
+		<twohundredfourtyeight>「信頼できない入力」を介したシステムへのアクティブなアクションは、望ましくない結果で悪用される可能性があります。サーバー構成「AllowOverrideAll」は共有ホスティングで利用できます。</twohundredfourtyeight>
+		<twohundredfourtynine>独自のサーバーを使用する代わりに、共有ホスティングとクラウドソリューションを優先します。これは、セキュリティを可能な限り管理する必要があるためです。</twohundredfourtynine>
+		<twohundredfifty>そのようなプラットフォームがさまざまな脆弱性と欠陥を報告できるようにするための責任ある開示ポリシーを使用せず、少なくとも短いガイドラインを提供せず、たとえそれらが持っていても管理が遅すぎる場合、サービスは低品質と呼ばれる可能性があります。</twohundredfifty>
+		<twohundredfiftythree>アクションの複合（複数）を使用すると、より高度で複雑な攻撃を作成できます。</twohundredfiftythree>
+		<twohundredfiftyfour>国がソフトウェアアプリケーションの最小要件を実施しない場合、脆弱性管理の品質が低下し、より頻繁に発生する可能性のある不正なコードサンプルとパターンの繰り返しが発生します。</twohundredfiftyfour>
+		<twohundredfiftyfive>I.静的コード、IIで分析を行うスキャン機器を作成することができます。テスト環境ですが、さまざまなテクノロジーとソフトウェアアプリケーションが、情報にさまざまなラベルが付いたさまざまな特権アカウントと役割アカウントで使用されている場合は、課題があります。</twohundredfiftyfive>
+		<twohundredsixtythree>終わり</twohundredsixtythree>
+		<twohundredsixtysevenitwelve>クエリを送信</twohundredsixtysevenitwelve>
+		<twohundredsixtynine>診断データ：</twohundredsixtynine>
+	</language>
+	<language id="tr-TR">
+		<five>Herhangi bir arka plan Güvenlik ve Güvenlik Süreci olmaksızın Kullanıcı Girişinin kolaylığını belirleyin.</five>
+		<six>Komut, Kabuk Komutu</six>
+		<seven>elit bilgisayarcı</seven>
+		<eight>Emretmek</eight>
+		<ten>Elithecomputerguy, Sunucu Komut Kabuğunda Yürütülebilir Komutu sunar.</ten>
+		<twentyseven>Emretmek</twentyseven>
+		<hundredthirty>ingilizce</hundredthirty>
+		<hundredthirtyone>Çince</hundredthirtyone>
+		<hundredthirtytwo>Koreli</hundredthirtytwo>
+		<hundredthirtythree>Hintçe</hundredthirtythree>
+		<hundredthirtyfour>Japonca</hundredthirtyfour>
+		<hundredthirtyfive>Türk</hundredthirtyfive>
+		<hundredthirtysix>İtalyan</hundredthirtysix>
+		<hundredthirtyeight>Emretmek</hundredthirtyeight>
+		<hundredfourtyone>Konsantrasyon Alanıyla Adım Adım</hundredfourtyone>
+		<hundredfourtyfour>BAŞLAMAK</hundredfourtyfour>
+		<hundredfifty>OSINT (Görünümü Değiştir)</hundredfifty>
+		<hundredfiftysix>Sistemde kullanıcı oturum açma adı:</hundredfiftysix>
+		<hundredfiftyeight>Kullanıcı hakkında daha fazla bilgi:</hundredfiftyeight>
+		<hundredsixty>Sistem ana ortam ayrıntıları:</hundredsixty>
+		<hundredsixtytwo>Sistemde oluşturulan tüm Kullanıcılar:</hundredsixtytwo>
+		<hundredsixtyfour>Oluşturulan tüm Gruplar ve İçlerinde Kullanıcılar:</hundredsixtyfour>
+		<hundredsixtysix>Sistemde mevcut uygulama araçları:</hundredsixtysix>
+		<hundredsixtyeight>Bu uygulama araçlarından biri hakkında daha fazla bilgi:</hundredsixtyeight>
+		<hundredseventy>Enstrümanın sürümü hakkında daha fazla bilgi:</hundredseventy>
+		<hundredseventytwo>Sistemin yeteneklerini değerlendirin:</hundredseventytwo>
+		<hundredseventyfour>Sistemdeki işlemler hakkında daha fazla bilgi:</hundredseventyfour>
+		<hundredseventysix>Dosyalar ve Dizinler hakkında daha fazla bilgi:</hundredseventysix>
+		<hundredseventyeight>Sistem Ağları (Dahili, Kablo, Wi-Fi) hakkında daha fazla bilgi:</hundredseventyeight>
+		<hundredeighty>Belge Kökündeki Dosyaya Gözatın:</hundredeighty>
+		<hundredeightysix>Aktif INT (Görünümü Değiştir)</hundredeightysix>
+		<hundredninetytwo>Dahili Ağa Erişim:</hundredninetytwo>
+		<hundredninetyfour>Dizin Oluştur:</hundredninetyfour>
+		<hundredninetysix>Dosyayı Harici Ağdan İndirin:</hundredninetysix>
+		<hundredninetyeight>Sistemde Bazı Dosyalar Oluşturun:</hundredninetyeight>
+		<twohundred>Dosyaya Bazı Kodlar Ekleyin:</twohundred>
+		<twohundredtwo>Sistemdeki Bazı Dosyaları Kaldırın:</twohundredtwo>
+		<twohundredfour>Sistem Dizininin tamamını kaldırın:</twohundredfour>
+		<twohundredsix>Dosya ve Dizinlerin İzinlerini Değiştirin:</twohundredsix>
+		<twohundredeight>Planlar için Sistem Sunucusunun Yapılandırmasını arayın, yani Özel &quot;.htaccess&quot; Yapılandırma Dosyasını eklemek için:</twohundredeight>
+		<twohundredfifteen>Aktif INT (Geçiş Görünümü) Olarak Çoklu Eylemler</twohundredfifteen>
+		<twohundredtwentyone>Hassas Veri İfşası A (1):</twohundredtwentyone>
+		<twohundredtwentythree>Hassas Veri İfşası A (2):</twohundredtwentythree>
+		<twohundredtwentyfive>Hassas Veri İfşası A (3):</twohundredtwentyfive>
+		<twohundredtwentyseven>Hassas Veri İfşası B (1):</twohundredtwentyseven>
+		<twohundredtwentynine>Hassas Veri İfşası B (2):</twohundredtwentynine>
+		<twohundredthirty>Hassas Veri Açıklaması B (3): Belge Kökündeki Dosyaya Gözatın https://127.0.0.1/command.center.php (Belge Kökü gerekli &quot;AllowOverride All&quot;; Sunucunun Yeniden Başlatılması gerekir)</twohundredthirty>
+		<twohundredthirtysix>Sonuçlar (Görünümü Değiştir)</twohundredthirtysix>
+		<twohundredfourtythree>OSINT şu kelimelerle tanımlanabilir: &quot;Keşif&quot;, &quot;İstihbarat Toplama&quot;, &quot;Bilgi Toplama&quot;. Ve tüm bunlar, shell_exec()&apos;in basit komutu kullanılarak yönetilebilir.</twohundredfourtythree>
+		<twohundredfourtyfour>İnterweb&apos;lerde İhtiyacınız Olan Bir Çok Çeşitli Kodu Bulabilmelisiniz Ama &quot;Güvenli Programlama&quot;; ve Paranoik &quot;Onaylama&quot; ve &quot;Temizlik&quot; genellikle zaman alıcıdır, eğer herkes yine de kurallara ve otoritelere uyarsa, başlangıçta kârlı değildir.</twohundredfourtyfour>
+		<twohundredfourtyfive>PHP Konfigürasyonunda disable_functions = &quot;exec, system&quot; belirtmek mümkündür. Bu, potansiyel olarak tehlikeli olan bu işlevleri kapatır. Her şeyi devre dışı bırakarak ve adım adım yalnızca Sende olanı etkinleştirerek Yaklaşım kullanılabilir.</twohundredfourtyfive>
+		<twohundredfourtyeight>&quot;Güvenilmeyen Giriş&quot; yoluyla Sisteme Yapılan Aktif Eylemler, istenmeyen sonuçlarla kötüye kullanılabilir. Sunucu Yapılandırması &quot;AllowOverride All&quot;, paylaşılan barındırmada mevcuttur.</twohundredfourtyeight>
+		<twohundredfourtynine>Kendi Sunucunuzu kullanmak yerine Paylaşımlı Barındırma ve Bulut Çözümlerini tercih edin, çünkü Güvenlikle ellerinden geldiğince ilgilenmeleri gerekir.</twohundredfourtynine>
+		<twohundredfifty>Bu tür Platformlar, çeşitli Güvenlik Açıklarını ve Kusurları bildirebilmek için Sorumlu bilgilendirme politikasını kullanmıyorsa, en azından kısa bir kılavuz sunmuyorsa ve varsa bile yönetimi çok yavaşsa, Hizmet Kalitesiz olarak adlandırılabilir.</twohundredfifty>
+		<twohundredfiftythree>Bileşik Eylemler (birden fazla), daha karmaşık, karmaşık Saldırılar oluşturmaya izin verir.</twohundredfiftythree>
+		<twohundredfiftyfour>Ülke, Yazılım Uygulamaları için asgari Gereksinimleri uygulamıyorsa, Güvenlik Açığı Yönetiminde Kalite olmayacak ve daha sık olacak şekilde hatalı kod örneklerinin ve kalıplarının tekrarı olmayacaktır.</twohundredfiftyfour>
+		<twohundredfiftyfive>I. Statik Kod, II&apos;de analiz yapacak tarama araçları oluşturulabilir. Test Ortamı, ancak mevcut farklı sayıda Teknoloji ve Yazılım Uygulaması, bilgiler üzerinde çeşitli etiketlerle farklı Ayrıcalık ve Rol Hesapları tarafından kullanıldığında zorluklar vardır.</twohundredfiftyfive>
+		<twohundredsixtythree>SON</twohundredsixtythree>
+		<twohundredsixtysevenitwelve>Sorgu Gönder</twohundredsixtysevenitwelve>
+		<twohundredsixtynine>Teşhis Verileri:</twohundredsixtynine>
+	</language>
+	<language id="it-IT">
+		<five>Determinare l&apos;amichevolezza dell&apos;input dell&apos;utente senza alcun processo di sicurezza e protezione in background.</five>
+		<six>Comando, comando Shell</six>
+		<seven>elithecomputerguy</seven>
+		<eight>Comando</eight>
+		<ten>Elithecomputerguy presenta il comando eseguibile nella shell dei comandi del server.</ten>
+		<twentyseven>Comando</twentyseven>
+		<hundredthirty>inglese</hundredthirty>
+		<hundredthirtyone>Cinese</hundredthirtyone>
+		<hundredthirtytwo>coreano</hundredthirtytwo>
+		<hundredthirtythree>hindi</hundredthirtythree>
+		<hundredthirtyfour>giapponese</hundredthirtyfour>
+		<hundredthirtyfive>Turco</hundredthirtyfive>
+		<hundredthirtysix>Italiano</hundredthirtysix>
+		<hundredthirtyeight>Comando</hundredthirtyeight>
+		<hundredfourtyone>Passo dopo passo con l&apos;area di concentrazione</hundredfourtyone>
+		<hundredfourtyfour>INIZIO</hundredfourtyfour>
+		<hundredfifty>OSINT (commuta vista)</hundredfifty>
+		<hundredfiftysix>Nome di accesso utente nel sistema:</hundredfiftysix>
+		<hundredfiftyeight>Maggiori informazioni sull&apos;Utente:</hundredfiftyeight>
+		<hundredsixty>Dettagli dell&apos;ambiente principale del sistema:</hundredsixty>
+		<hundredsixtytwo>Tutti gli utenti creati nel sistema:</hundredsixtytwo>
+		<hundredsixtyfour>Tutti i gruppi e gli utenti creati al loro interno:</hundredsixtyfour>
+		<hundredsixtysix>Strumenti applicativi disponibili nel Sistema:</hundredsixtysix>
+		<hundredsixtyeight>Maggiori informazioni su uno di questi strumenti applicativi:</hundredsixtyeight>
+		<hundredseventy>Maggiori informazioni sulla versione dello strumento:</hundredseventy>
+		<hundredseventytwo>Valutare le capacità del sistema:</hundredseventytwo>
+		<hundredseventyfour>Maggiori informazioni sui processi nel Sistema:</hundredseventyfour>
+		<hundredseventysix>Maggiori informazioni sui file e le directory:</hundredseventysix>
+		<hundredseventyeight>Maggiori informazioni sulle Reti del Sistema (Interne, Wire, Wi-Fi):</hundredseventyeight>
+		<hundredeighty>Sfoglia il file nella radice del documento:</hundredeighty>
+		<hundredeightysix>INT attivo (commuta vista)</hundredeightysix>
+		<hundredninetytwo>Accesso alla rete interna:</hundredninetytwo>
+		<hundredninetyfour>Crea directory:</hundredninetyfour>
+		<hundredninetysix>Scarica file da rete esterna:</hundredninetysix>
+		<hundredninetyeight>Crea qualche file nel sistema:</hundredninetyeight>
+		<twohundred>Inserisci del codice nel file:</twohundred>
+		<twohundredtwo>Rimuovere alcuni file nel sistema:</twohundredtwo>
+		<twohundredfour>Rimuovere l&apos;intera directory del sistema:</twohundredfour>
+		<twohundredsix>Modifica le autorizzazioni dei file e delle directory:</twohundredsix>
+		<twohundredeight>Cerca Configurazione del server di sistema per i piani, ad esempio per inserire il file di configurazione &quot;.htaccess&quot; personalizzato:</twohundredeight>
+		<twohundredfifteen>Azioni multiple come INT attivo (commuta vista)</twohundredfifteen>
+		<twohundredtwentyone>Informativa sui dati sensibili A (1):</twohundredtwentyone>
+		<twohundredtwentythree>Informativa sui dati sensibili A (2):</twohundredtwentythree>
+		<twohundredtwentyfive>Informativa sui dati sensibili A (3):</twohundredtwentyfive>
+		<twohundredtwentyseven>Informativa sui dati sensibili B (1):</twohundredtwentyseven>
+		<twohundredtwentynine>Informativa sui dati sensibili B (2):</twohundredtwentynine>
+		<twohundredthirty>Informativa sui dati sensibili B (3): sfoglia il file nella radice del documento https://127.0.0.1/command.center.php (richiesta radice del documento &quot;AllowOverride All&quot;; richiedi riavvio del server)</twohundredthirty>
+		<twohundredthirtysix>Conclusioni (commuta vista)</twohundredthirtysix>
+		<twohundredfourtythree>OSINT potrebbe essere descritto con queste parole: &quot;Reconnaissance&quot;, &quot;Intelligence Gathering&quot;, &quot;Information Gathering&quot;. E tutto questo può essere gestito usando il semplice comando di shell_exec().</twohundredfourtythree>
+		<twohundredfourtyfour>Intorno agli Interweb dovresti essere in grado di trovare un sacco di vari codici di cui hai bisogno, ma &quot;Programmazione sicura&quot;; e la &quot;convalida&quot; e la &quot;sanificazione&quot; paranoiche di solito richiedono tempo, non redditizie all&apos;inizio, se tutti rispettano comunque le regole e le autorità.</twohundredfourtyfour>
+		<twohundredfourtyfive>Nella configurazione PHP è possibile specificare disable_functions = &quot;exec, system&quot;. Ciò disattiverebbe queste funzioni potenzialmente pericolose. Potrebbe essere utilizzato Approccio disabilitando tutto e abilitando passo dopo passo solo ciò che hai.</twohundredfourtyfive>
+		<twohundredfourtyeight>Le azioni attive al sistema tramite &quot;Input non attendibile&quot; potrebbero essere utilizzate in modo improprio con risultati indesiderati. Configurazione del server &quot;AllowOverride All&quot; è disponibile nell&apos;hosting condiviso.</twohundredfourtyeight>
+		<twohundredfourtynine>Invece di utilizzare il Tuo Server, preferisci Hosting Condiviso e Soluzioni Cloud, perché devono prendersi cura della Sicurezza nel miglior modo possibile.</twohundredfourtynine>
+		<twohundredfifty>Se tali Piattaforme non utilizzano una politica di divulgazione responsabile per poter segnalare varie Vulnerabilità e Difetti, non forniscono almeno brevi linee guida e anche se lo hanno, ma sono troppo lente nella loro gestione, il Servizio potrebbe essere definito di Scarsa Qualità.</twohundredfifty>
+		<twohundredfiftythree>Compound of Actions (più di una) permette di creare Attacchi più sofisticati e complessi.</twohundredfiftythree>
+		<twohundredfiftyfour>Se il Paese non applica requisiti minimi per le applicazioni software, non ci sarà la qualità nella gestione delle vulnerabilità e la ripetizione di campioni e modelli di codice errato che si verificherebbero più spesso.</twohundredfiftyfour>
+		<twohundredfiftyfive>Potrebbero essere creati strumenti di scansione che farebbero analisi in I. Codice statico, II. Ambiente di test, ma ci sono difficoltà quando il numero di diverse tecnologie in atto e l&apos;applicazione software vengono utilizzate da diversi account di privilegi e ruoli con varie etichette sulle informazioni.</twohundredfiftyfive>
+		<twohundredsixtythree>FINE</twohundredsixtythree>
+		<twohundredsixtysevenitwelve>Invia richiesta</twohundredsixtysevenitwelve>
+		<twohundredsixtynine>Dati diagnostici:</twohundredsixtynine>
+	</language>
+</cosmocat>
