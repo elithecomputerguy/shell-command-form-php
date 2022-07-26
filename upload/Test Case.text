@@ -1,0 +1,149 @@
+Eli tester
+-------------------------------------------------START--------------------------------------------------
+Test Cases
+
+To test Out the Code found in the Annex A.
+To provide recommendations and insight.
+To try RPi 3 B+ Server.
+
+
+Preparations
+
+1. sudo cp fileUpload.php /var/www/html/
+2. sudo cp fileUpload.html /var/www/html/ 
+3. sudo mkdir /var/www/html/folder
+4. sudo chown root:www-data /var/www/html/folder
+5. sudo chmod 775 /var/www/html/folder
+
+
+Describe the Code
+
+It seems that File Upload should work:
+A. by providing JPEG, JPG, GIF, PNG file formats;
+B. by providing unique named file or the provided filename does not exist in the Upload Directory;
+C. by providing file which does not exceed fifty kilobytes file size;
+D. with assumtion that pre-processor allows and configured for the file Uploads. 
+
+
+Case No. 1
+
+Select 1,128 bytes PNG file and Upload to the Server.
+
+Expectations: PNG file gonna be Uploaded.
+
+Results: Success as expected.
+
+
+Case No. 2 
+
+Select 87,904 bytes PNG file and Upload to the Server.
+
+Expectations: upload of PNG file gonna fail.
+
+Results: Success as expected.
+
+
+Case No. 3
+
+Select PNG file and if there is, remove the "dot", so it would be 
+as following "filenamePNG".
+Upload this New File into the Server.
+
+Statement: Nowadays Systems has capabilities for specific Database Solutions and 
+the "dot" could be stated as Security of Obscurity.
+
+Expectations: upload of PNG file gonna fail.
+
+Results: Success as expected.
+
+
+Case No. 4
+
+Select the file format which is not in Allowed list. 
+Disguise this file as "filename.png".
+Upload this New File into the Server.
+
+Statement: Nowadays exists the Systems who only manages the list of these
+Filenames. By removing the File the Contents are not being deleted, so
+someday You would wish to recover/rollback the File from Recycle Bin/History.
+
+Expectations: upload of PNG file gonna fail.
+
+Results: Failed.
+
+Conclusions. 
+$_FILES['Upload']['type'] upon upload showed 'image/png'.
+
+From the Command Line "file --mime-type filename.png" showed 'text/plain'.
+
+Houston, We Have Problem!
+If there would be a way to execute the Secret Code in the Uploaded File,
+then what a point of $_FILES['Upload']['type']?
+
+
+Case No. 5
+
+Select the file which were already uploaded. Upload this File again.
+
+Expectations: upload of PNG file gonna fail.
+
+Results: Success as expected.
+
+Remarks: in some case it would be possible to remove existing png file
+for re-upload with new version, i.e. for GIMP Designers.
+
+
+Recommendations.
+Lately there are possible to hear for Virus Code in Systems like Androind and MAC OS.
+At least the implementation of file check for (Virus Code, Malware, Mime-type) 
+before accepting the Upload would help to defend from the "Script Kiddies".
+
+
+Insight.
+a)
+With php7.4 version php.ini file exists link for http://php.net/default-mimetype
+"File Uploads" needs additional touch with not only of these directives by default:
+	file_uploads = On
+	;upload_tmp_dir =
+	upload_max_filesize = 2M
+	max_file_uploads = 20
+This has not changed a bit from 4-5th Major PHP version.
+b)
+With php7.4 version php.ini could be found GET, POST, COOKIE, ENV, REQUEST, SERVER.
+For file-document handling exists "PUT", which works as just by placing 
+the File as Drag and Drop, in this case from the Client/User to the Server.
+Assumption that this Simple HTTP Method are not Available in the PHP and never were.
+
+
+Annex A. File Upload found in Interwebs.
+
+Annex A.
+
+$dir = "./folder/";
+$filename = $dir.basename($_FILES['Upload']['name']);
+$filenameArray = pathinfo($filename);
+$ext = array("jpeg","jpg","gif", "png");
+$isGood = 0;
+
+if (file_exists($filename)) {
+    echo "The file already exists<br>";
+    $isGood = 1;
+}
+
+if ($_FILES['Upload']['size'] > 50000) {
+    echo "File is over 50kB in size<br>";
+    $isGood = 1;
+}
+
+if (!in_array($filenameArray['extension'],$ext)) {
+    echo "File Type is not Allowed (Upload jpeg, jpg, gif, png)<br>";
+    $isGood = 1;
+}
+
+if ($isGood != 1) {
+    if (move_uploaded_file($_FILES['Upload']['tmp_name'], $filename)){
+        echo "<p>File was uploaded --> ".$_FILES['Upload']['name'];
+    } else {
+     echo "Upload failed".$_FILES['Upload']['name'];
+    }
+----------------------------------------------END-----------------------------------------------------
